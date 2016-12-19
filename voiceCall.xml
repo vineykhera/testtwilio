@@ -1,3 +1,4 @@
 <Response>
-<Say voice="woman">Good afternoon Kaveri, I am Sam from Abot Labs, I saw your profile on Linked in and I am excited to talk with you. I think you will be right fit to work with us, I will be sending you more details about a matching position for you. Thank you have a grea day!</Say>
+<Say voice="alice">This is a tets call from Viney, using Twilio API. This is a reminder message for Alexa from Temecula Clinic, You have an appointment at 10:15am on 12/20/2016 with Dr Suzi. </Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
