@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">This is a tets call from Viney, using Twilio API. This is a reminder message for Alexa from Temecula Clinic, You have an appointment at 10:15am on 12/20/2016 with Dr Suzi. </Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
